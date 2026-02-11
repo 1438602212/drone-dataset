@@ -1,6 +1,15 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角种植区工棚温棚太阳能板杂物检测数据集VOC+YOLO格式1668张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5lqbQ==">下载</a></td></tr>
+<tr><td>无人机视角坟墓棺椁检测数据集VOC+YOLO格式237张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5lraw==">下载</a></td></tr>
+<tr><td>无人机视角松材线虫病死树检测数据集VOC+YOLO格式1208张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5lrag==">下载</a></td></tr>
+<tr><td>无人机视角农田焚烧秸秆田间烟雾检测数据集VOC+YOLO格式2767张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5lrZw==">下载</a></td></tr>
+<tr><td>无人机视角农田焚烧秸秆田间火点检测数据集VOC+YOLO格式4491张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5lrZA==">下载</a></td></tr>
+<tr><td>无人机视角农田焚烧秸秆检测数据集VOC+YOLO格式3245张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaalp9q">下载</a></td></tr>
+<tr><td>无人机视角路面异常城市道路裂缝泥堆坑洞垃圾积水检测数据集VOC+YOLO格式1274张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5ZybA==">下载</a></td></tr>
+<tr><td>无人机视角道路坑洞检测数据集VOC+YOLO格式58张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5ZyZg==">下载</a></td></tr>
+<tr><td>无人机视角智慧电力风力发电机叶片中心识别分割数据集labelme格式798张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbkp9saw==">下载</a></td></tr>
 <tr><td>无人机视角地理要素田地道路森林水体电力线识别分割数据集labelme格式1536张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbkp1yZA==">下载</a></td></tr>
 <tr><td>无人机视角动物牛羊斑马骆驼海豹驴检测数据集VOC+YOLO格式10000张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5xvaw==">下载</a></td></tr>
 <tr><td>无人机视角城市街道行人与车辆检测数据集VOC+YOLO格式5291张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5xtbA==">下载</a></td></tr>
