@@ -1,6 +1,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角河道河岸浮木检测数据集VOC+YOLO格式1345张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZ5xaw==">下载</a></td></tr>
+<tr><td>无人机视角河道河岸浮木识别分割数据集labelme格式1345张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZ5xaQ==">下载</a></td></tr>
 <tr><td>无人机视角风力发电机叶片缺陷识别分割数据集labelme格式6153张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZtyZA==">下载</a></td></tr>
 <tr><td>无人机视角树冠识别分割数据集labelme格式1288张59类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZxqbQ==">下载</a></td></tr>
 <tr><td>无人机视角城市街道各种类型车辆三轮车摩托车检测数据集VOC+YOLO格式1534张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZhqZQ==">下载</a></td></tr>
