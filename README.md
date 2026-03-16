@@ -1,6 +1,11 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角路面损坏和冲刷道路滑坡预警检测数据集VOC+YOLO格式579张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmpxtZA==">下载</a></td></tr>
+<tr><td>无人机视角路面损坏和冲刷道路滑坡预警识别分割数据集labelme格式579张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmpxsbA==">下载</a></td></tr>
+<tr><td>无人机视角建筑损坏程度检测数据集VOC+YOLO格式865张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmpxpZg==">下载</a></td></tr>
+<tr><td>无人机视角建筑损坏程度识别分割数据集labelme格式865张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmpxpZA==">下载</a></td></tr>
+<tr><td>无人机视角河流水流状态水流类型识别分割数据集labelme格式360张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmpxtZg==">下载</a></td></tr>
 <tr><td>无人机视角河道河岸浮木检测数据集VOC+YOLO格式1345张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZ5xaw==">下载</a></td></tr>
 <tr><td>无人机视角河道河岸浮木识别分割数据集labelme格式1345张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZ5xaQ==">下载</a></td></tr>
 <tr><td>无人机视角风力发电机叶片缺陷识别分割数据集labelme格式6153张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZtyZA==">下载</a></td></tr>
