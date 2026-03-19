@@ -1,6 +1,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角攀爬墙壁翻越院墙厂房治安检测数据集VOC+YOLO格式1704张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbm5tpaw==">下载</a></td></tr>
+<tr><td>无人机视角智慧林业倒树树根识别分割数据集labelme格式5026张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbm5ltZw==">下载</a></td></tr>
+<tr><td>无人机视角户外人员与帐篷识别户外搜救人员检测数据集VOC+YOLO格式1808张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbm5puaA==">下载</a></td></tr>
 <tr><td>无人机视角河流水流状态水流类型识别分割数据集labelme格式360张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmpxtZg==">下载</a></td></tr>
 <tr><td>无人机视角工人是否佩戴安全帽检测数据集VOC+YOLO格式3008张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbm5dpZQ==">下载</a></td></tr>
 <tr><td>无人机视角禁止游泳检测数据集VOC+YOLO格式20604张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmp5saQ==">下载</a></td></tr>
