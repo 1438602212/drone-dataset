@@ -1,6 +1,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角红外图像海上人员救援检测数据集VOC+YOLO格式295张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclZ5tbQ==">下载</a></td></tr>
+<tr><td>无人机视角热成像行人车辆检测数据集VOC+YOLO格式2755张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWck5tpag==">下载</a></td></tr>
 <tr><td>无人机视角智慧城市绿化巡检树木草地低植被检测数据集VOC+YOLO格式208张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWckpdpbA==">下载</a></td></tr>
 <tr><td>无人机视角智慧农业水稻生长周期水稻生长状态检测数据集VOC+YOLO格式5413张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbm59sZg==">下载</a></td></tr>
 <tr><td>无人机视角攀爬墙壁翻越院墙厂房治安检测数据集VOC+YOLO格式1704张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbm5tpaw==">下载</a></td></tr>
