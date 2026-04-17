@@ -1,6 +1,13 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角空田水田稻田识别分割数据集labelme格式528张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcl55uaw==">下载</a></td></tr>
+<tr><td>无人机视角稻田识别分割数据集labelme格式869张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcl55tZw==">下载</a></td></tr>
+<tr><td>无人机视角屋顶识别分割数据集labelme格式1650张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcl55tZA==">下载</a></td></tr>
+<tr><td>无人机视角屋顶检测数据集VOC+YOLO格式4107张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcl55sbA==">下载</a></td></tr>
+<tr><td>无人机视角山体滑坡检测数据集VOC+YOLO格式374张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcl51qaQ==">下载</a></td></tr>
+<tr><td>无人机视角房顶发霉检测数据集VOC+YOLO格式62张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcl51pbA==">下载</a></td></tr>
+<tr><td>无人机视角城市垃圾工业区垃圾废弃物检测数据集VOC+YOLO格式3385张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcl5dpZA==">下载</a></td></tr>
 <tr><td>无人机视角红外图像海上人员救援检测数据集VOC+YOLO格式295张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclZ5tbQ==">下载</a></td></tr>
 <tr><td>无人机视角热成像行人车辆检测数据集VOC+YOLO格式2755张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWck5tpag==">下载</a></td></tr>
 <tr><td>无人机视角智慧城市绿化巡检树木草地低植被检测数据集VOC+YOLO格式208张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWckpdpbA==">下载</a></td></tr>
