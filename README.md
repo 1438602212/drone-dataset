@@ -1,6 +1,10 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角烟草植株出苗率识别分割数据集labelme格式1931张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJ9uZg==">下载</a></td></tr>
+<tr><td>无人机视角烟草植株出苗率检测数据集VOC+YOLO格式540张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJ9tZA==">下载</a></td></tr>
+<tr><td>无人机视角田间土豆马铃薯苗和杂草检测数据集VOC+YOLO格式384张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJ9pZQ==">下载</a></td></tr>
+<tr><td>无人机视角太阳能光伏板热成像红外图像缺陷检测数据集VOC+YOLO格式1229张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampxtbA==">下载</a></td></tr>
 <tr><td>无人机视角空田水田稻田识别分割数据集labelme格式528张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcl55uaw==">下载</a></td></tr>
 <tr><td>无人机视角稻田识别分割数据集labelme格式869张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcl55tZw==">下载</a></td></tr>
 <tr><td>无人机视角屋顶识别分割数据集labelme格式1650张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcl55tZA==">下载</a></td></tr>
