@@ -1,6 +1,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角航拍巡检数据集空中救援人员火灾车辆识别数据集VOC+YOLO格式5496张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlJxvaQ==">下载</a></td></tr>
+<tr><td>无人机视角航拍森林火点火灾识别分割数据集labelme格式1519张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTk55qbQ==">下载</a></td></tr>
+<tr><td>无人机视角风力涡轮机缺陷检测数据集VOC+YOLO格式5464张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZ9waA==">下载</a></td></tr>
 <tr><td>无人机视角烟草植株出苗率识别分割数据集labelme格式1931张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJ9uZg==">下载</a></td></tr>
 <tr><td>无人机视角烟草植株出苗率检测数据集VOC+YOLO格式540张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJ9tZA==">下载</a></td></tr>
 <tr><td>无人机视角田间土豆马铃薯苗和杂草检测数据集VOC+YOLO格式384张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJ9pZQ==">下载</a></td></tr>
