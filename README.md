@@ -1,6 +1,10 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角洪水识别分割数据集labelme格式1173张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmJhxZg==">下载</a></td></tr>
+<tr><td>无人机视角红外图像遮挡情况下人员急救搜寻检测数据集VOC+YOLO格式8767张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmJdraQ==">下载</a></td></tr>
+<tr><td>无人机视角航拍城市街道广告牌检测数据集VOC+YOLO格式4999张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmJZqbQ==">下载</a></td></tr>
+<tr><td>电力场景无人机视角高压线异常电力巡检缺陷检测数据集VOC+YOLO格式1163张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmJdqbA==">下载</a></td></tr>
 <tr><td>无人机视角光伏板热成像缺陷检测数据集VOC+YOLO格式7332张8类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTl5dtZQ==">下载</a></td></tr>
 <tr><td>无人机视角林业森林砍伐巡检数据集VOC+YOLO格式130张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTl5dtZA==">下载</a></td></tr>
 <tr><td>无人机视角航拍油棕树健康状态检测数据集VOC+YOLO格式3131张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTlp9tZw==">下载</a></td></tr>
