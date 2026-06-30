@@ -1,6 +1,11 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角航拍树木检测数据集VOC+YOLO格式1485张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5hsbA==">下载</a></td></tr>
+<tr><td>无人机视角航拍违建违章建筑识别数据集labelme格式245张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5hraA==">下载</a></td></tr>
+<tr><td>无人机视角航拍违建非法采矿违规堆放检测数据集VOC+YOLO格式1869张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5lqbA==">下载</a></td></tr>
+<tr><td>无人机视角航拍树木识别分割数据集labelme格式2029张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5lqag==">下载</a></td></tr>
+<tr><td>无人机视角智慧林业云杉赤松检测数据集VOC+YOLO格式200张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmp1xaw==">下载</a></td></tr>
 <tr><td>无人机视角甲烷气体泄漏识别分割数据集labelme格式1094张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmphtZg==">下载</a></td></tr>
 <tr><td>无人机视角航拍智慧工地巡检护栏坑警示标语安全设施监测数据集VOC+YOLO格式6051张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmpdrbQ==">下载</a></td></tr>
 <tr><td>无人机视角航拍道路病害及设施检测数据集VOC+YOLO格式813张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmpZsbQ==">下载</a></td></tr>
