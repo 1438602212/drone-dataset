@@ -1,6 +1,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角智慧交通道路路面井盖异常丢失破损未盖好检测数据集VOC+YOLO格式851张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUkp9xaQ==">下载</a></td></tr>
+<tr><td>无人机视角航拍挖掘机检测数据集VOC+YOLO格式336张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUkp5wbA==">下载</a></td></tr>
+<tr><td>无人机视角航拍违建河道双检测数据集VOC+YOLO格式1132张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUkpxsZA==">下载</a></td></tr>
 <tr><td>无人机视角水稻倒伏识别分割数据集labelme格式175张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm55qaQ==">下载</a></td></tr>
 <tr><td>无人机视角航拍森林树木健康状况检测数据集VOC+YOLO格式276张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5ptZw==">下载</a></td></tr>
 <tr><td>无人机视角航拍树木检测数据集VOC+YOLO格式1485张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5hsbA==">下载</a></td></tr>
