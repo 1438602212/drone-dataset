@@ -1,6 +1,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角低空拍摄的土豆马铃薯幼苗与杂草检测数据集VOC+YOLO格式5266张6类</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJxsaA==">下载</a></td></tr>
+<tr><td>无人机视角航拍河道垃圾水面垃圾检测数据集VOC+YOLO格式1320张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJttaQ==">下载</a></td></tr>
+<tr><td>无人机视角露天违规堆放煤气罐易燃易爆物品检测数据集VOC+YOLO格式1958张1类别图片合成版</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJtqZA==">下载</a></td></tr>
 <tr><td>无人机视角裸土覆盖识别分割数据集labelme格式592张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJpwbQ==">下载</a></td></tr>
 <tr><td>无人机视角航拍河道巡检垃圾及周边坍塌隐患检测数据集VOC+YOLO格式6686张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJppag==">下载</a></td></tr>
 <tr><td>无人机视角航拍道路路面标线损伤评估检测数据集VOC+YOLO格式175张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJppZA==">下载</a></td></tr>
