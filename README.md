@@ -1,6 +1,17 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人视角河道障碍物阻塞物异物识别数据集labelme格式432张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp1waA==">下载</a></td></tr>
+<tr><td>无人机视角航拍屋顶杂物检测数据集VOC+YOLO格式12217张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp1wZA==">下载</a></td></tr>
+<tr><td>无人机视角航拍公路周边杂物堆积物垃圾检测数据集VOC+YOLO格式799张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp1tZw==">下载</a></td></tr>
+<tr><td>无人机视角航拍挖掘机检测数据集VOC+YOLO格式1289张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp1tZQ==">下载</a></td></tr>
+<tr><td>无人机视角航拍高速公路起火火灾检测数据集VOC+YOLO格式144张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp1sbA==">下载</a></td></tr>
+<tr><td>无人机视角航拍高速公路路面抛洒物异物杂物检测数据集VOC+YOLO格式2133张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp1saA==">下载</a></td></tr>
+<tr><td>无人机视角航拍高速公路路面积水检测数据集VOC+YOLO格式1074张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp1sZw==">下载</a></td></tr>
+<tr><td>无人机视角航拍高速公路交通事故检测数据集VOC+YOLO格式504张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp1sZA==">下载</a></td></tr>
+<tr><td>无人机视角航拍稻田作物倒伏识别分割数据集labelme格式2799张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp1wZg==">下载</a></td></tr>
+<tr><td>无人机视角航拍高速公路两旁堆积物杂物垃圾检测数据集VOC+YOLO格式811张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp1sZQ==">下载</a></td></tr>
+<tr><td>无人机视角航拍耕地违建占用农田违建房屋建筑检测数据集VOC+YOLO格式2249张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlZ5wbA==">下载</a></td></tr>
 <tr><td>无人机视角罂粟检测数据集VOC+YOLO格式3648张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlZ1raQ==">下载</a></td></tr>
 ><tr><td>无人机视角航拍垃圾检测数据集VOC+YOLO格式8140张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlZZsaw==">下载</a></td></tr>
 <tr><td>无人机视角航拍屋顶房顶缺陷裂缝损伤垃圾杂物检测数据集VOC+YOLO格式3353张19类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJ5vbA==">下载</a></td></tr>
