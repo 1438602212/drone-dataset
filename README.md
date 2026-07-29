@@ -13,7 +13,7 @@
 <tr><td>无人机视角航拍高速公路两旁堆积物杂物垃圾检测数据集VOC+YOLO格式811张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp1sZQ==">下载</a></td></tr>
 <tr><td>无人机视角航拍耕地违建占用农田违建房屋建筑检测数据集VOC+YOLO格式2249张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlZ5wbA==">下载</a></td></tr>
 <tr><td>无人机视角罂粟检测数据集VOC+YOLO格式3648张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlZ1raQ==">下载</a></td></tr>
-><tr><td>无人机视角航拍垃圾检测数据集VOC+YOLO格式8140张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlZZsaw==">下载</a></td></tr>
+<tr><td>无人机视角航拍垃圾检测数据集VOC+YOLO格式8140张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlZZsaw==">下载</a></td></tr>
 <tr><td>无人机视角航拍屋顶房顶缺陷裂缝损伤垃圾杂物检测数据集VOC+YOLO格式3353张19类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJ5vbA==">下载</a></td></tr>
 <tr><td>无人机视角航拍高清屋顶缺陷瓦片损坏屋顶垃圾长草检测数据集VOC+YOLO格式7975张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJ5taw==">下载</a></td></tr>
 <tr><td>无人机视角航拍红外图像屋顶缺陷瓦片损坏屋顶垃圾长草检测数据集VOC+YOLO格式4300张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJ5uZg==">下载</a></td></tr>
