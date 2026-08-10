@@ -1,6 +1,13 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角航拍城市街道电动车载人检测数据集VOC+YOLO格式1008张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZdxaQ==">下载</a></td></tr>
+<tr><td>无人机视角低空铁路轨道缺陷可识别剥落裂缝检测数据集VOC+YOLO格式4599张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZdtag==">下载</a></td></tr>
+<tr><td>无人机视角低空航拍桥梁裂缝检测数据集VOC+YOLO格式877张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZdsaA==">下载</a></td></tr>
+<tr><td>无人机视角遥感图像城市道路坑洞坑洼检测数据集VOC+YOLO格式1641张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZZxaA==">下载</a></td></tr>
+<tr><td>无人机视角热成像城市街道井盖检测数据集VOC+YOLO格式1021张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJtvbA==">下载</a></td></tr>
+<tr><td>无人机视角航拍洪水区域人员救援检测数据集VOC+YOLO格式670张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJlxZw==">下载</a></td></tr>
+<tr><td>无人机视角航拍洪水区域人员救援检测数据集VOC+YOLO格式1677张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJlxZQ==">下载</a></td></tr>
 <tr><td>无人机视角航拍高速公路上行人入侵人员检测数据集VOC+YOLO格式484张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUl51rZQ==">下载</a></td></tr>
 <tr><td>无人机视角航拍高速公路上三轮车检测数据集VOC+YOLO格式976张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUl51qbQ==">下载</a></td></tr>
 <tr><td>无人机视角航拍洪水区域识别分割数据集labelme格式1617张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUl5ZxbA==">下载</a></td></tr>
