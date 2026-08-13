@@ -1,6 +1,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角道路路面裂缝检测数据集VOC+YOLO格式1081张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZlpbQ==">下载</a></td></tr>
+<tr><td>无人机视角航拍城市街道道路坑洞裂缝检测数据集VOC+YOLO格式1979张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZlyZQ==">下载</a></td></tr>
 <tr><td>无人机视角航拍城市街道电动车载人检测数据集VOC+YOLO格式1008张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZdxaQ==">下载</a></td></tr>
 <tr><td>无人机视角低空铁路轨道缺陷可识别剥落裂缝检测数据集VOC+YOLO格式4599张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZdtag==">下载</a></td></tr>
 <tr><td>无人机视角低空航拍桥梁裂缝检测数据集VOC+YOLO格式877张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZdsaA==">下载</a></td></tr>
