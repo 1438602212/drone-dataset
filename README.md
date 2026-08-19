@@ -1,6 +1,10 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角航拍井盖检测数据集VOC+YOLO格式410张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmp1taQ==">下载</a></td></tr>
+<tr><td>无人机视角航拍道路井盖集水井窨井检测数据集VOC+YOLO格式361张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmp1tZQ==">下载</a></td></tr>
+<tr><td>无人机视角航拍红外图像人员检测数据集VOC+YOLO格式2900张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmptuZw==">下载</a></td></tr>
+<tr><td>无人机视角停车场停车位空闲车位占用检测数据集VOC+YOLO格式12142张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmpZwbQ==">下载</a></td></tr>
 <tr><td>无人机视角航拍建筑物损伤缺陷检测数据集VOC+YOLO格式1045张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZ9uaQ==">下载</a></td></tr>
 <tr><td>无人机视角航拍松材线虫病树阶段检测数据集VOC+YOLO格式842张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZ9tbA==">下载</a></td></tr>
 <tr><td>无人机视角红树林植株胚轴检测数据集VOC+YOLO格式380张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZ9saQ==">下载</a></td></tr>
