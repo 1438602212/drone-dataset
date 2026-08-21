@@ -1,6 +1,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角航拍高速公路车辆巡检检测数据集VOC+YOLO格式727张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmp9raA==">下载</a></td></tr>
+<tr><td>无人机视角航拍河道江边垂钓钓鱼检测数据集VOC+YOLO格式3952张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmp9pZg==">下载</a></td></tr>
 <tr><td>无人机视角航拍井盖检测数据集VOC+YOLO格式410张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmp1taQ==">下载</a></td></tr>
 <tr><td>无人机视角航拍道路井盖集水井窨井检测数据集VOC+YOLO格式361张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmp1tZQ==">下载</a></td></tr>
 <tr><td>无人机视角航拍红外图像人员检测数据集VOC+YOLO格式2900张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmptuZw==">下载</a></td></tr>
