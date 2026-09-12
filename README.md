@@ -1,6 +1,10 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角河道油污和垃圾检测数据集VOC+YOLO格式310张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJ5yZg==">下载</a></td></tr>
+<tr><td>无人机视角航拍道路裂缝缺陷检测数据集VOC+YOLO格式748张1类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJ5xbA==">下载</a></td></tr>
+<tr><td>无人机视角航拍河道周边的菜园子检测数据集VOC+YOLO格式422张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJ5xZA==">下载</a></td></tr>
+<tr><td>无人机航拍河道污染漂浮物垃圾检测数据集VOC+YOLO格式2436张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJ5wZw==">下载</a></td></tr>
 <tr><td>无人机视角航拍河道水面塑料垃圾检测数据集VOC+YOLO格式1320张1类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVk5twZg==">下载</a></td></tr>
 <tr><td>无人机视角航拍河道垃圾检测数据集VOC+YOLO格式787张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVk5tsZw==">下载</a></td></tr>
 <tr><td>无人机视角河道塑料垃圾检测数据集VOC+YOLO格式492张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVk5tqZQ==">下载</a></td></tr>
