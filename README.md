@@ -1,6 +1,10 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角航拍建筑物立面缺陷房屋质量检测数据集VOC+YOLO格式1304张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlZ5waw==">下载</a></td></tr>
+<tr><td>无人机视角智慧城市管理治理人员车辆井盖广告违规停车检测数据集VOC+YOLO格式540张17类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlZ5vZA==">下载</a></td></tr>
+<tr><td>无人机视角船舶作业场景下人员工作人员检测数据集VOC+YOLO格式1432张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlZlrZg==">下载</a></td></tr>
+<tr><td>无人机视角茶叶嫩芽检测数据集VOC+YOLO格式6169张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJ9xZw==">下载</a></td></tr>
 <tr><td>无人机视角河道油污和垃圾检测数据集VOC+YOLO格式310张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJ5yZg==">下载</a></td></tr>
 <tr><td>无人机视角航拍道路裂缝缺陷检测数据集VOC+YOLO格式748张1类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJ5xbA==">下载</a></td></tr>
 <tr><td>无人机视角航拍河道周边的菜园子检测数据集VOC+YOLO格式422张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJ5xZA==">下载</a></td></tr>
