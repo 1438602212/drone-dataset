@@ -1,6 +1,10 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角海边沙滩垃圾检测数据集VOC+YOLO格式603张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJtxaQ==">下载</a></td></tr>
+<tr><td>无人机视角航拍农田植株健康养分缺失和杂草丛检测数据集VOC+YOLO格式3280张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJtwZA==">下载</a></td></tr>
+<tr><td>无人机视角河道及周边垃圾检测数据集VOC+YOLO格式907张15类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJtyZQ==">下载</a></td></tr>
+<tr><td>无人机视角航拍烟叶病害检测数据集VOC+YOLO格式1071张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJZtZg==">下载</a></td></tr>
 <tr><td>无人机视角道路滑坡检测数据集VOC+YOLO格式1892张1类别合成版</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVl5pubQ==">下载</a></td></tr>
 <tr><td>无人机视角铁路轨道异物人员检测数据集VOC+YOLO格式1919张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVl5puaQ==">下载</a></td></tr>
 <tr><td>无人机视角航拍车辆违停检测数据集VOC+YOLO格式3263张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVl5lqZQ==">下载</a></td></tr>
