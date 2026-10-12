@@ -2,7 +2,7 @@
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
 <tr><td>无人机视角航拍松材线虫病树检测数据集VOC+YOLO格式1112张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmZpybQ==">下载</a></td></tr>
-<tr><td>无人机视角航拍古建筑屋顶缺陷损毁识别分割数据集labelme格式605张7类别</td><td><a href="https://mbd.pub/o/bread/YZaVmZxwbQ==">下载</a></td></tr>
+<tr><td>无人机视角航拍古建筑屋顶缺陷损毁识别分割数据集labelme格式605张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmZxwbQ==">下载</a></td></tr>
 <tr><td>无人机视角露天采矿作业和岩面的航空图像地质表面裂缝检测数据集VOC+YOLO格式407张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmZZpaw==">下载</a></td></tr>
 <tr><td>无人机视角电力场景下T电线杆塔检测数据集VOC+YOLO格式13790张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJ5uag==">下载</a></td></tr>
 <tr><td>无人机视角机场跑道异物检测数据集VOC+YOLO格式10000张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJ5tZQ==">下载</a></td></tr>
