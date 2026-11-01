@@ -1,6 +1,13 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角航拍蚊子滋生地蚊虫潜在器具检测数据集VOC+YOLO格式936张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk59uaw==">下载</a></td></tr>
+<tr><td>无人机视角航拍滑坡与建筑物损坏识别分割数据集labelme格式3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk55sbA==">下载</a></td></tr>
+<tr><td>无人机视角航拍夜晚城市街道车辆检测数据集VOC+YOLO格式4714张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk5dvaw==">下载</a></td></tr>
+<tr><td>无人机视角航拍道路路面坑洞检测数据集VOC+YOLO格式1038张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk5drbQ==">下载</a></td></tr>
+<tr><td>无人机视角铁轨枕木检测数据集VOC+YOLO格式1297张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk5htZQ==">下载</a></td></tr>
+<tr><td>无人机视角建筑物立面外墙裂缝墙面剥落检测数据集VOC+YOLO格式448张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk5Zrag==">下载</a></td></tr>
+<tr><td>无人机视角外墙空调外机支架锈蚀及附近墙面裂缝剥落检测数据集VOC+YOLO格式803张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWkptraA==">下载</a></td></tr>
 <tr><td>无人机视角航拍农业生产大棚地膜识别分割数据集labelme格式11442张5类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVm5xpag==">下载</a></td></tr>
 <tr><td>无人机视角航拍铁路输电线绝缘子和鸟巢检测数据集VOC+YOLO格式376张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVm5pqbA==">下载</a></td></tr>
 <tr><td>无人机视角航拍水面海面石油泄漏识别分割数据集labelme格式1268张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVm5hwZw==">下载</a></td></tr>
