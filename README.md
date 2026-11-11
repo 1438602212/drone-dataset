@@ -1,6 +1,17 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角航拍应急车道与普通车道识别分割数据集labelme格式1485张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlptrbA==">下载</a></td></tr>
+<tr><td>无人机视角航拍红外图像光伏板损伤缺陷太阳能板热斑脏污检测数据集VOC+YOLO格式2289张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlptpbQ==">下载</a></td></tr>
+<tr><td>无人机视角禁止游泳检测数据集VOC+YOLO格式20604张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmp5saQ==">下载</a></td></tr>
+<tr><td>无人机视角楼房外立面瓷砖缺陷识别分割数据集labelme格式407张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlZxqaQ==">下载</a></td></tr>
+<tr><td>无人机视角坦克和人员检测数据集VOC+YOLO格式2178张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlZtybA==">下载</a></td></tr>
+<tr><td>无人机视角建筑物楼房外立面缺陷剥落裂缝检测数据集VOC+YOLO格式1263张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlJ9vZA==">下载</a></td></tr>
+<tr><td>无人机视角航拍林业树种红松白桦杨树核桃楸水曲柳落叶松松树其他树种检测数据集VOC+YOLO格式612张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlJ1yZA==">下载</a></td></tr>
+<tr><td>无人机视角建筑外立面墙缺陷可识别裂缝脱落鼓包检测数据集VOC+YOLO格式1280张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlJ1xZA==">下载</a></td></tr>
+<tr><td>无人机视角航拍场景识别地形识别场景感知分割数据集labelme格式1587张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlJpuZw==">下载</a></td></tr>
+<tr><td>无人机视角遥感航拍树木识别城市绿化覆盖分割数据集labelme格式2427张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlJdybA==">下载</a></td></tr>
+<tr><td>无人机视角航拍滑坡与建筑物损坏识别分割数据集labelme格式373张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk55sbA==">下载</a></td></tr>
 <tr><td>无人机视角航拍蚊子滋生地蚊虫潜在器具检测数据集VOC+YOLO格式936张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk59uaw==">下载</a></td></tr>
 <tr><td>无人机视角航拍滑坡与建筑物损坏识别分割数据集labelme格式3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk55sbA==">下载</a></td></tr>
 <tr><td>无人机视角航拍夜晚城市街道车辆检测数据集VOC+YOLO格式4714张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk5dvaw==">下载</a></td></tr>
