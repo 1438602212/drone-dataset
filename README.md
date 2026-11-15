@@ -1,6 +1,10 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角航拍大棚塑料薄膜破损缺陷检测数据集VOC+YOLO格式127张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5huZQ==">下载</a></td></tr>
+<tr><td>无人机视角航拍违规建筑搭建检测数据集VOC+YOLO格式453张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5htbQ==">下载</a></td></tr>
+<tr><td>无人机视角航拍乡村地物目标与各种类型车辆检测数据集VOC+YOLO格式394张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5ZyZA==">下载</a></td></tr>
+<tr><td>无人机视角低空拍摄农田玉米苗与杂草检测数据集VOC+YOLO格式4752张18类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5ZpaQ==">下载</a></td></tr>
 <tr><td>无人机视角航拍应急车道与普通车道识别分割数据集labelme格式1485张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlptrbA==">下载</a></td></tr>
 <tr><td>无人机视角航拍红外图像光伏板损伤缺陷太阳能板热斑脏污检测数据集VOC+YOLO格式2289张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlptpbQ==">下载</a></td></tr>
 <tr><td>无人机视角禁止游泳检测数据集VOC+YOLO格式20604张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmp5saQ==">下载</a></td></tr>
